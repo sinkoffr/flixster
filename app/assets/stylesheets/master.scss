@@ -12,7 +12,7 @@
   font-family: "Helvetica Neue", Helvetica;
   font-weight: 100;
   font-size: 24px;
-  color: blue;
+  color: rgba(20, 16, 204, 0.99);
 }
 
 .hero {
@@ -152,4 +152,8 @@ ul .header .fa {
 
 hr {
   background-color: white;
+}
+
+.navbar-inverse .navbar-nav .nav-link {
+  color: blue;
 }
